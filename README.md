@@ -9,7 +9,7 @@ Creating or learning to use a decorator-like notation (markup?) for tying a diff
 
 # Progress so far
 
-#### Nov 27
+### Nov 27
 
 [Asked](https://chat.openai.com/share/0825afa2-dceb-4d6c-beea-144a99a97eac)
 ChatGPT about decorators in Python

@@ -15,9 +15,9 @@ Creating or learning to use a decorator-like notation (markup?) for tying a diff
 ChatGPT about decorators in Python
 
 [ddg](https://duckduckgo.com/?q=python+decorator):
- python decorator
+python decorator  
 [ddg](https://duckduckgo.com/?q=python+decorating+lines+of+code):
- python decorating lines of code
+python decorating lines of code
 
 Found these
   -  https://www.udacity.com/blog/2020/12/our-guide-to-python-decorators.html
